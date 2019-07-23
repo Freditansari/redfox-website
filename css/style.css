@@ -34,7 +34,7 @@ header,
 
 @media (max-width: 991px) {
     .navbar:not(.top-nav-collapse) {
-        background: #cdcdcd !important;
+        background: #428bca !important;
     }
 }
 
