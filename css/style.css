@@ -21,6 +21,12 @@ header,
     #intro-section {
         height: 100vh;
     }
+
+    .intro-text{
+        font-size: 55px;
+
+    }
+
 }
 
 .top-nav-collapse, .page-footer {

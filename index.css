@@ -27,3 +27,15 @@ table {
   .fa-times {
     color: red;
   }
+
+  @media (max-width: 740px) {
+    .features-table{
+        font-size: 3px;   
+    }
+    th, td{
+      text-align: center;
+      font-size: 1px;
+    }
+
+
+  }
